@@ -1,0 +1,9 @@
+tenstar robot nrf52840, SUPERMINI 
+
+C:\Users\ ...userName.. \.platformio\packages\framework-arduinoadafruitnrf52\tools\uf2conv
+
+python "$env:USERPROFILE\.platformio\packages\framework-arduinoadafruitnrf52\tools\uf2conv\uf2conv.py" -c -f 0xada52840 -o firmware.uf2 firmware.hex
+
+
+
+https://cool-web.de/nrf/nrf52840-promicro-nicenano-board-platformio-vorstellung.htm
