@@ -1,9 +1,13 @@
-tenstar robot nrf52840, SUPERMINI 
+tenstar robot nrf52840 pro micro
+https://cool-web.de/nrf/nrf52840-promicro-nicenano-board-platformio-vorstellung.htm
 
 C:\Users\ ...userName.. \.platformio\packages\framework-arduinoadafruitnrf52\tools\uf2conv
 
 python "$env:USERPROFILE\.platformio\packages\framework-arduinoadafruitnrf52\tools\uf2conv\uf2conv.py" -c -f 0xada52840 -o firmware.uf2 firmware.hex
 
-
+uf2conv.py -c -f 0xada52840 -o firmware.uf2 firmware.hex
 
 https://cool-web.de/nrf/nrf52840-promicro-nicenano-board-platformio-vorstellung.htm
+
+
+ TEST_PIN 12 //12 0.08 ,11 0.06, 7 102 ,3 115 D18,  2=0.10 D16,  1=0.24 D5
