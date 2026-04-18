@@ -64,6 +64,8 @@ Uses standard BLE HID commands — **no additional software required**.
 
 The project was initially built using an **ESP32 Ultra Mini**, but battery life was only ~24 hours.
 
+👉 **[OLD Volume Control Project](https://github.com/jasenpashov/PC-Volume-Control)**
+
 After switching to **nRF52840**:
 
 - Significantly lower power consumption
