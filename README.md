@@ -145,12 +145,12 @@ uf2conv.py -c -f 0xada52840 -o firmware.uf2 firmware.hex
 
 STL files are included in the `/stl` directory:
 
-| File | Description |
-|------|-------------|
-| `knob blutooth1.stl` | Enclosure part 1 |
-| `knob blutooth2.stl` | Enclosure part 2 |
-| `knob blutooth3.stl` | Knob cap |
-| `volume knob project.f3d` | Full Fusion 360 source project |
+| File | Description | Download |
+|------|-------------|----------|
+| `knob blutooth1.stl` | Enclosure part 1 | [⬇ Download](stl/knob%20blutooth1.stl) |
+| `knob blutooth2.stl` | Enclosure part 2 | [⬇ Download](stl/knob%20blutooth2.stl) |
+| `knob blutooth3.stl` | Knob cap | [⬇ Download](stl/knob%20blutooth3.stl) |
+| `volume knob project.f3d` | Full Fusion 360 source project | [⬇ Download](stl/volume%20knob%20project.f3d) |
 
 > 🖊️ The `.f3d` file contains the **complete Fusion 360 project** with all bodies, sketches and parameters.
 > Feel free to open it, modify the dimensions, adapt it to different components, or redesign it entirely to suit your needs.
